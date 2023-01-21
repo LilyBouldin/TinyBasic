@@ -1,9 +1,9 @@
-10 input x 
-20 input y 
-30 let t = 0 
-40 let t = t + x  
-50 let x = x + 1 
-60 if x <= y then go to 40 
-70 print t 
-80 end 
-run
+: 10 input x 
+: 20 input y 
+: 30 let t = 0 
+: 40 let t = t + x  
+: 50 let x = x + 1 
+: 60 if x <= y then go to 40 
+: 70 print t 
+: 80 end 
+: run
